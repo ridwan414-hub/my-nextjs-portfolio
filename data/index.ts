@@ -107,111 +107,115 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Ridwan was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Ridwan's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Ridwan is the ideal partner.",
-    name: 'Michael Johnson',
-    title: 'Director of AlphaStream Technologies',
+      "Working with Ridwan was an amazing experience. His attention to detail, creativity, and ability to solve complex problems were invaluable to our project. Ridwan's passion for web development shines through in everything he does. If you're looking for a talented and dedicated developer, Ridwan is the perfect choice.",
+    name: 'Emily Davis',
+    title: 'Founder of TechSavvy Solutions',
   },
   {
     quote:
-      "Collaborating with Ridwan was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Ridwan's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Ridwan is the ideal partner.",
-    name: 'Michael Johnson',
-    title: 'Director of AlphaStream Technologies',
+      "Ridwan exceeded all expectations on our project. His professionalism, communication skills, and technical expertise were exceptional. Ridwan's commitment to delivering high-quality results and meeting deadlines make him a valuable asset to any team. I highly recommend him for your next project.",
+    name: 'John Smith',
+    title: 'CTO of InnovateX',
   },
   {
     quote:
-      "Collaborating with Ridwan was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Ridwan's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Ridwan is the ideal partner.",
-    name: 'Michael Johnson',
-    title: 'Director of AlphaStream Technologies',
+      "I had the pleasure of collaborating with Ridwan on a challenging project, and he delivered outstanding results. Ridwan's problem-solving abilities, attention to detail, and dedication to customer satisfaction set him apart. If you're looking for a reliable and skilled developer, Ridwan is the one.",
+    name: 'Sarah Johnson',
+    title: 'CEO of WebWorks Co.',
   },
   {
     quote:
-      "Collaborating with Ridwan was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Ridwan's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Ridwan is the ideal partner.",
-    name: 'Michael Johnson',
-    title: 'Director of AlphaStream Technologies',
+      'Ridwan is an exceptional developer who goes above and beyond to ensure project success. His expertise in front-end development, coupled with his strong communication skills, make him a valuable asset to any team. I thoroughly enjoyed working with Ridwan and would highly recommend him.',
+    name: 'David Brown',
+    title: 'Lead Developer at CodeCraft Inc.',
   },
   {
     quote:
-      "Collaborating with Ridwan was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Ridwan's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Ridwan is the ideal partner.",
-    name: 'Michael Johnson',
-    title: 'Director of AlphaStream Technologies',
+      "Working with Ridwan was a pleasure from start to finish. His professionalism, creativity, and commitment to excellence were evident throughout our collaboration. Ridwan's ability to understand and exceed client expectations makes him an invaluable partner. I look forward to working with him again.",
+    name: 'Rachel Clark',
+    title: 'Marketing Manager at DigitalDreams',
   },
 ];
 
 export const companies = [
   {
     id: 1,
-    name: 'cloudinary',
-    img: '/cloud.svg',
-    nameImg: '/cloudName.svg',
+    name: 'NEXT.JS',
+    img: '/next.svg',
+    nameImg: '/nextjs.svg',
   },
   {
     id: 2,
     name: 'appwrite',
-    img: '/app.svg',
-    nameImg: '/appName.svg',
+    img: '/mongoDB.svg',
+    nameImg: '/mongoDBName.svg',
   },
   {
     id: 3,
     name: 'HOSTINGER',
-    img: '/host.svg',
-    nameImg: '/hostName.svg',
+    img: '/express.svg',
+    nameImg: '/expressName.svg',
   },
   {
     id: 4,
     name: 'stream',
-    img: '/s.svg',
-    nameImg: '/streamName.svg',
+    img: '/node.svg',
+    nameImg: '/nodeName.svg',
   },
   {
     id: 5,
     name: 'docker.',
-    img: '/dock.svg',
-    nameImg: '/dockerName.svg',
+    img: '/react.svg',
+    nameImg: '/reactName.svg',
   },
 ];
 
 export const workExperience = [
   {
     id: 1,
-    title: 'Frontend Engineer Intern',
-    desc: 'Assisted in the development of a web-based platform using React.js, enhancing interactivity.',
+    title: 'MERN Stack Developer',
+    desc: 'Developed and maintained user-facing features using modern frontend technologies and backend technologies.',
     className: 'md:col-span-2',
     thumbnail: '/exp1.svg',
   },
   {
     id: 2,
-    title: 'Mobile App Dev - JSM Tech',
-    desc: 'Designed and developed mobile app for both iOS & Android platforms using React Native.',
+    title: 'React Frontend Developer',
+    desc: 'Developed user-facing features using React.js, ensuring high performance and responsiveness.',
     className: 'md:col-span-2', // change to md:col-span-2
     thumbnail: '/exp2.svg',
   },
   {
     id: 3,
-    title: 'Freelance App Dev Project',
-    desc: 'Led the dev of a mobile app for a client, from initial concept to deployment on app stores.',
+    title: 'Freelance Web Dev Project',
+    desc: 'Led the dev of a website for a client, from initial concept to deployment on internet.',
     className: 'md:col-span-2', // change to md:col-span-2
     thumbnail: '/exp3.svg',
   },
   {
     id: 4,
-    title: 'Lead Frontend Developer',
-    desc: 'Developed and maintained user-facing features using modern frontend technologies.',
+    title: 'Junior Backend Developer',
+    desc: 'Exploring the backend world with Node.js, Express.js, and MongoDB.',
     className: 'md:col-span-2',
     thumbnail: '/exp4.svg',
   },
 ];
 
+//done
 export const socialMedia = [
   {
     id: 1,
     img: '/git.svg',
+    link: 'https:/github.com/ridwan414-hub/',
   },
   {
     id: 2,
-    img: '/twit.svg',
+    img: '/fb.svg',
+    link: 'https://www.facebook.com/ridwanmahmoud.ridwanmahmoud',
   },
   {
     id: 3,
     img: '/link.svg',
+    link: 'https://www.linkedin.com/in/ridwanmahmoud/',
   },
 ];

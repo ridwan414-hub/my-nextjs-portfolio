@@ -34,7 +34,8 @@ const Hero = () => {
               words="Transforming Concepts into Seamless User Expreiences"
             />
             <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-              Hi, I&apos;m Ridwan, a Next.js Developer based in Bangladesh
+              Hi, I&apos;m Ridwan, a MERN Stack and Next.js Developer based in
+              Bangladesh
             </p>
             <a href="#about">
               <MagicButton
